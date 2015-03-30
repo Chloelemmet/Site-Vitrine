@@ -24,3 +24,18 @@
     margin:0;
     display: inline-block;
 }
+
+div {
+   transition-property: width;
+   transition-duration: 2s;
+   transition-timing-function: ease-in;
+   transition-delay: .5s;
+}
+.galerie{
+    text-align: center;
+}
+
+body{ 
+    background-color: Black;
+    text-align: center;
+}
